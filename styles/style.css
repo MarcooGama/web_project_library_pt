@@ -131,7 +131,8 @@
   justify-content: center;
   gap: 40px;
   max-width: 760px;
-  margin: 68px auto;
+  margin: 0 auto;
+  margin-bottom: 68px;
   list-style-type: none;
   padding-left: 0;
 }
